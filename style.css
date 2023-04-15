@@ -2,7 +2,6 @@
     box-sizing: border-box;
 }
 
-
 .content {
     margin: 50px auto;
     border: 1px solid black;
@@ -38,5 +37,4 @@ input{
 .laske:active {
     background-color: #2cc42c;
     cursor: pointer;
-
 }
