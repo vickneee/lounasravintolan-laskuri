@@ -17,7 +17,7 @@ function laskeOsudeet() {
         tulos = "Henkilömäärä pitää olla väliltä 0-30.<br>Syötä uusi luku.";
     } else {
         for (let i = 1; i <= henkilomaara; i++) {
-            tulos += "Henkilö " + i + " osuus on: " + osuus.toFixed(2) + " euroa. <br>";
+            tulos += "Henkilö " + i + ": " + osuus.toFixed(2) + " euroa. <br>";
         }
     }
     document.getElementById("osudeet").innerHTML = tulos;
