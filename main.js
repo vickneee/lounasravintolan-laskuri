@@ -11,9 +11,9 @@ function laskeOsudeet() {
     let osuus = (lasku - (lasku * veroprosentti)) / henkilomaara;
     let tulos = "";
 
-    if (lasku > laskumax || lasku < laskumin) {
+    if (lasku < laskumin || lasku > laskumax) {
         tulos = "Lasku hinta pitää olla väliltä 0-10000.<br>Syötä uusi luku."
-    } else if (henkilomaaramin < henkilomaaramin || henkilomaara > henkilomaaramax) {
+    } else if (henkilomaara < henkilomaaramin || henkilomaara > henkilomaaramax) {
         tulos = "Henkilömäärä pitää olla väliltä 0-30.<br>Syötä uusi luku.";
     } else {
         for (let i = 1; i <= henkilomaara; i++) {
