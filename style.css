@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.content {
+    margin: 50px auto;
+    border: 1px solid black;
+    border-radius: 12px;
+    width: 450px;
+    text-align: center;
+    padding-top: 30px;
+    background-color: #faf9f9;
+}
+
+.content1 {
+    font-size: 20px;
+    margin: 50px auto 70px auto;
+    border: 1px solid black;
+    border-radius: 12px;
+    width: 350px;
+    text-align: left;
+    padding: 20px;
+    background-color: #eceaea;
+}
+
+input{
+    width: 100%;
+}
+
+.laske {
+    font-size: 18px;
+    background-color: #28ea28;
+    border-radius: 4px;
+}
+
+.laske:hover,
+.laske:active {
+    background-color: #2cc42c;
+    cursor: pointer;
+
+}
