@@ -4,35 +4,41 @@
 
 .content {
     margin: 100px auto;
-    border: 1px solid black;
+    border: 1px solid #777;
     border-radius: 12px;
     width: 450px;
     text-align: center;
     padding-top: 30px;
     background-color: #faf9f9;
+    box-shadow: 1px 1px 6px #777;
 }
 
 .content1 {
     font-size: 20px;
     margin: 50px auto 70px auto;
-    border: 1px solid black;
+    border: 1px solid #777;
     border-radius: 12px;
     width: 350px;
     text-align: left;
     padding: 20px;
     background-color: #eceaea;
+    box-shadow: 1px 1px 6px #777;
 }
 
 input{
     width: 99%;
     border-radius: 6px;
     font-size: 16px;
+    border: 1px solid #777;
 }
 
 .laske {
     font-size: 18px;
     background-color: #28ea28;
     border-radius: 6px;
+    border: 1px solid #777;
+    box-shadow: 1px 1px 6px #777;
+    padding: 2px 8px;
 }
 
 .laske:hover,
