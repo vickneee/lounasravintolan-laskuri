@@ -12,7 +12,7 @@ function laskeOsudeet() {
     let tulos = "";
 
     if (lasku < laskumin || lasku > laskumax) {
-        tulos = "Lasku pitää olla väliltä 0-10000.<br>Syötä uusi luku."
+        tulos = "Lasku hinta pitää olla väliltä 0-10000.<br>Syötä uusi luku."
     } else if (henkilomaara < henkilomaaramin || henkilomaara > henkilomaaramax) {
         tulos = "Henkilömäärä pitää olla väliltä 0-30.<br>Syötä uusi luku.";
     } else {
