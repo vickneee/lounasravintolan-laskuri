@@ -1,4 +1,4 @@
 # lounasravintolan-laskuri
-School homework. Practicing Git, GitHub, and JavaScript.
+School homework.
 
 🔗 https://vickneee.github.io/lounasravintolan-laskuri/
