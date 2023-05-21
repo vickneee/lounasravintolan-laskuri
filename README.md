@@ -5,4 +5,4 @@ Lounasravintolan laskuri.
 🔗 https://vickneee.github.io/lounasravintolan-laskuri/
 
 A Lunch Restaurant Counter's Design.
-<img width="1913" alt="Screenshot 2023-05-21 at 19 53 34" src="https://github.com/vickneee/lounasravintolan-laskuri/assets/93821265/67634c54-a85f-484b-9976-9dffcb10fe98">
+<img width="1911" alt="Screenshot 2023-05-21 at 19 56 57" src="https://github.com/vickneee/lounasravintolan-laskuri/assets/93821265/178a0b1a-7fa7-492a-990f-ab55324f377c">
