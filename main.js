@@ -1,3 +1,5 @@
+"use strict";
+
 function laskeOsudeet() {
     let lasku = parseFloat(document.getElementById('lasku').value);
     let henkilomaara = parseFloat(document.getElementById('henkilomaara').value);
